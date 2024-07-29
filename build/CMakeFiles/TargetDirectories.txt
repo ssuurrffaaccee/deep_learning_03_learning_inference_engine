@@ -1,0 +1,8 @@
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/00-load_onnx_model.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/01-simple_cpu_op.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/edit_cache.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/rebuild_cache.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/list_install_components.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/install.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/install/local.dir
+/home/boc/deep_learning_03_learning_inference_engine/build/CMakeFiles/install/strip.dir

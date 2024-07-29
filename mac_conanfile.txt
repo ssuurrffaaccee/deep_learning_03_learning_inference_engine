@@ -1,0 +1,8 @@
+[requires]
+onnx/1.16.1
+openblas/0.3.27
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout

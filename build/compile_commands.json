@@ -1,0 +1,398 @@
+[
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/blob.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/blob.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/blob.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/blob.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/context.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/context.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/context.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/context.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cpu_event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cpu_event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cpu_event.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cpu_event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cuda_event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cuda_event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cuda_event.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cuda_event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cuda_helpers.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cuda_helpers.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/cuda_helpers.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/cuda_helpers.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/event.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/exception.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/exception.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/exception.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/exception.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/log.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/log.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/log.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/log.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/proto_configure.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/proto_configure.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/proto_configure.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/proto_configure.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/proto_helper.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/proto_helper.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/proto_helper.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/proto_helper.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/timer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/timer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/timer.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/timer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/typeid.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/typeid.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/typeid.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/typeid.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/types.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/types.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/common/types.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/common/types.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/graph.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/graph.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/graph.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/graph.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/net.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/net.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/net.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/net.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/observer/cost_observer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/observer/cost_observer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/observer/cost_observer.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/observer/cost_observer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/observer/profile_observer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/observer/profile_observer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/observer/profile_observer.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/observer/profile_observer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/simple_net.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/simple_net.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/simple_net.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/simple_net.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/workspace.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/workspace.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/graph/workspace.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/graph/workspace.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/model_importer/model_importer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/model_importer/model_importer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/model_importer/model_importer.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/model_importer/model_importer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/model_importer/onnx_importer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/model_importer/onnx_importer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/model_importer/onnx_importer.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/model_importer/onnx_importer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/common_helper.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/common_helper.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/common_helper.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/common_helper.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/operator.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/operator.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/operator.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/operator.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/operator_schema.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/operator_schema.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/operator/operator_schema.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/operator/operator_schema.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/main.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/main.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/main.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/main.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/proto/blaze.pb.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/proto/blaze.pb.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/00-load_onnx_model/blaze/proto/blaze.pb.cc",
+  "output": "CMakeFiles/00-load_onnx_model.dir/src/00-load_onnx_model/blaze/proto/blaze.pb.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/blob.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/blob.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/blob.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/blob.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/context.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/context.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/context.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/context.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cpu_event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cpu_event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cpu_event.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cpu_event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cuda_event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cuda_event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cuda_event.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cuda_event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cuda_helpers.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cuda_helpers.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/cuda_helpers.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/cuda_helpers.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/event.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/event.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/event.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/event.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/exception.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/exception.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/exception.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/exception.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/log.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/log.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/log.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/log.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/proto_configure.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/proto_configure.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/proto_configure.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/proto_configure.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/proto_helper.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/proto_helper.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/proto_helper.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/proto_helper.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/timer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/timer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/timer.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/timer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/typeid.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/typeid.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/typeid.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/typeid.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/types.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/types.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/common/types.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/common/types.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/graph.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/graph.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/graph.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/graph.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/net.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/net.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/net.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/net.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/observer/cost_observer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/observer/cost_observer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/observer/cost_observer.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/observer/cost_observer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/observer/profile_observer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/observer/profile_observer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/observer/profile_observer.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/observer/profile_observer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/simple_net.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/simple_net.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/simple_net.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/simple_net.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/workspace.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/workspace.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/graph/workspace.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/graph/workspace.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/binary_search.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/binary_search.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/binary_search.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/binary_search.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/broadcast.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/broadcast.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/broadcast.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/broadcast.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/float16.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/float16.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/float16.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/float16.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/gemm.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/gemm.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/gemm.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/gemm.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/memory.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/memory.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/memory.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/memory.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/reduce.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/reduce.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/reduce.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/reduce.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/vml.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/vml.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/math/vml.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/math/vml.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/model_importer/model_importer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/model_importer/model_importer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/model_importer/model_importer.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/model_importer/model_importer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/model_importer/onnx_importer.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/model_importer/onnx_importer.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/model_importer/onnx_importer.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/model_importer/onnx_importer.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/common_helper.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/common_helper.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/common_helper.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/common_helper.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/batch_normalization_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/batch_normalization_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/batch_normalization_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/batch_normalization_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/concat_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/concat_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/concat_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/concat_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/constant_fill_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/constant_fill_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/constant_fill_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/constant_fill_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/elementwise_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/elementwise_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/elementwise_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/elementwise_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/gemm_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/gemm_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/gemm_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/gemm_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/sigmoid_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/sigmoid_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/sigmoid_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/sigmoid_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/softmax_op.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/softmax_op.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/op/softmax_op.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/op/softmax_op.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/operator.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/operator.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/operator.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/operator.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/operator_schema.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/operator_schema.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/operator/operator_schema.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/operator/operator_schema.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/main.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/main.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/main.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/main.cc.o"
+},
+{
+  "directory": "/home/boc/deep_learning_03_learning_inference_engine/build",
+  "command": "/usr/bin/c++  -I/home/boc/deep_learning_03_learning_inference_engine/src -I/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op -g -std=gnu++17 -mavx -mavx2 -march=native -o CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/proto/blaze.pb.cc.o -c /home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/proto/blaze.pb.cc",
+  "file": "/home/boc/deep_learning_03_learning_inference_engine/src/01-simple_cpu_op/blaze/proto/blaze.pb.cc",
+  "output": "CMakeFiles/01-simple_cpu_op.dir/src/01-simple_cpu_op/blaze/proto/blaze.pb.cc.o"
+}
+]

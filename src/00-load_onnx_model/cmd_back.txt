@@ -1,0 +1,2 @@
+
+dot -Tjpg -o output.jpg graph.dot
